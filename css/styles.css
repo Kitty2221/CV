@@ -15,7 +15,7 @@ h2, h3 {
 
 h2 {
     font-size: 3rem;
-    line-height: 1.5;
+    line-height: 1;
     color: black;
 }
 
@@ -154,9 +154,16 @@ p {
     margin: 20px 20px 50px;
 }
 
+
+#work {
+    padding: 3% 8%;
+    background-color: #FFE2E2;
+
+}
+
 #projects {
     padding: 3% 10%;
-    background-color: #FFE2E2;
+    background-color: #FFC7C7;
 
 }
 
@@ -169,7 +176,7 @@ p {
 }
 
 #cta {
-    background-color: #FFC7C7;
+    background-color: #FFE2E2;
     color: black;
     padding: 3% 10%;
     font-size: 23px;
@@ -183,9 +190,14 @@ p {
     text-align: left;
 }
 
+.work{
+    text-align: left;
+    font-size: 36px
+}
+
 #footer {
     padding: 3% 10%;
-    background-color: #FFE2E2;
+    background-color: #FFC7C7;
 }
 
 .social-media {
